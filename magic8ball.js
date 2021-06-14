@@ -1,4 +1,4 @@
-var magicBall = [
+const magicBall = [
     //Positive Answers
     "It is certain",
     "Without a doubt",
